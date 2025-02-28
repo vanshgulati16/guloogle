@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Freelancing",
+    "alias": "freelancing",
+    "headline": "Freelancer",
+    "timeline": "present",
+    "searchDescription": "Developing websites and applications for clients",
+    "longDescription": "I've been freelancing for a while now. I've worked on a few projects. I've also learned a lot about design."
+  },
+  {
+    "title": "Textify.ai",
+    "alias": "textify",
+    "headline": "Frontend Developer Intern",
+    "timeline": "Oct 2023 - Feb 2024",
+    "type": "startup",
+    "searchDescription": "Collaborating with development team to plan, design and implement new features.",
+    "longDescription": "At Textify.ai I worked in the development of a SAAS based application. I was responsible for the development of the frontend of the application. I also worked on the design of the application."
+  },
+
+  {
+    "title": "To The New",
+    "alias": "tothenew",
+    "headline": "DevOps Intern",
+    "timeline": "May 2023 - July 2023",
+    "type": "corporate",
+    "searchDescription": "Learned about DevOps and cloud technologies",
+    "longDescription": "Successfully deployed a Flask-based dummy application using the automation script, demonstrating the practical application of infrastructure as code (IaC) principles. Developed automation scripts using Terraform to streamline the deployment process, enabling the deployment."
+  },
+  {
+    "title": "CarDekho",
+    "alias": "cardekho",
+    "headline": "Software Engineer Intern",
+    "timeline": "Dec 2022 - Jan 2023",
+    "type": "corporate",
+    "searchDescription": "Helping in development of a website for a new product",
+    "longDescription": "Played a pivotal role in the development of a new product, 'CarDekho Connect', by creating a dedicated website to introduce and showcase the product."
+  }
+]

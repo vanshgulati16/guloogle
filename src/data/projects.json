@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Ball Busters",
+    "alias": "ballbusters",
+    "timeline": "August 2022",
+    "headline": "A game created using HTML canvas ,vanilla js",
+    "type": "project",
+    "tech": ["HTML Canvas", "Vanilla JS"],
+    "searchDescription": "One of my initial projects, a game created using HTML canvas, Vanilla js while learning the basics of js",
+    "longDescription": "A game created using HTML canvas, Vanilla js while learning the basics of js", 
+    "links": [{"link": "https://cheerful-raindrop-b7b0c1.netlify.app/", "name": "check it out", "url": "link-outline.svg" , "urlHover": "link-outline.svg"}]
+  },
+  {
+    "title": "Resume Analyzer",
+    "alias": "resume-analyzer",
+    "headline": "College final year project, trying out different resume analysis tools ended up making our own",
+    "timeline": "Sept 2023 - June 2024",
+    "type": "project",
+    "tech": ["Streamlit"," Python", "Gemini API"],
+    "searchDescription": "A web app designed to optimise your resume, match your resume, create personalised cover letters and describe your resume persona", 
+    "longDescription": "Inspired by the resume analysis tools I used to apply to jobs, we decided to make my own. We used Streamlit to create a web app that allows you to upload your resume and get a detailed analysis of your resume. We used the Gemini API to create a personalised cover letter and describe your resume persona.",
+    "links": [{"link": "https://github.com/IshitaG10/Resume_Analyzer", "name": "github", "url": "github-outline.svg" , "urlHover": "github-outline.svg"}]
+  },
+  {
+    "title": "Role Bases Access Control Dashboard",
+    "alias": "rbac-dashboard",
+    "headline": "UI only RBAC dashboard",
+    "timeline": "Oct 2024",
+    "type": "project",
+    "tech": ["Nextjs", "Tailwind"],
+    "searchDescription": "UI-only functionality should focus on managing Roles, Permissions, and Users efficiently while ensuring a seamless user experience.",
+    "longDescription": "I created a UI only RBAC dashboard, with Roles, Permissions, and Users. I used Nextjs and Tailwind CSS to create the dashboard.", 
+    "links": [{"link": "https://role-based-access-control-ui-wine.vercel.app/", "name": "check it out", "url": "link-outline.svg" , "urlHover": "link-outline.svg"}]
+  },
+  {
+    "title": "Typo Defence",
+    "alias": "typo-defence",
+    "headline": "AWS Game Builder hackathon submission.",
+    "timeline": "Nov 2024",
+    "type": "hackathon",
+    "tech": ["Next.js","Amazon DynamoDB", "Tailwind", "Clerk"],
+    "searchDescription": "Typing game but with a twist. Type out the common typos in a sentence to destroy the enemy and get extra points or take 2x damage.",
+    "longDescription": "Typing game but with a twist. Type out the common typos in a sentence to destroy the enemy and get extra points or take 2x damage.",
+    "links": [{"link": "https://github.com/vanshgulati16/typo-defence", "name": "github", "url": "github-outline.svg" , "urlHover": "github-outline.svg"}, {"link": "https://typo-defence.vercel.app/", "name": "check it out", "url": "link-outline.svg" , "urlHover": "link-outline.svg"}]
+  },
+  {
+    "title": "AI Teaching Assistant",
+    "alias": "aiteachingassistant",
+    "headline": "Nosu AI Hackathon winner project (super awesome cool prize)",
+    "timeline": "Nov 2024",
+    "type": "hackathon",
+    "tech": ["Next.js", "Tailwind", "ElevenLabs", "daily.co API"],
+    "searchDescription": "An AI teaching assistant you that can explain topics ranging from complicated school problems to real life advice · (not responsible for anything wrong AI says <3)",
+    "longDescription": "It was an online hackathon. I created an AI teaching assistant that simply helps your with your doubts and questions. You can upload a image using the camera function or ask verbally and have a real-time conversation with our assistant.", 
+    "links": [{"link": "https://github.com/vanshgulati16/AI-Teaching-Assistant", "name": "github", "url": "github-outline.svg" , "urlHover": "github-outline.svg"}, {"link": "https://www.youtube.com/watch?v=EYi1DdRXIgI&t=16s", "name": "video", "url": "video-outline.svg" , "urlHover": "video-outline.svg"}]
+  },
+  {
+    "title": "Dish Dash Momzie",
+    "alias": "dishdashmomzie",
+    "headline": "Helps you solve the problem of 'Aaj Kya khaye?'",
+    "timeline": "present",
+    "type": "startup",
+    "searchDescription": "We bring your ingredients out on to a plate without the hussle bussle of googling between different cuisines",
+    "longDescription": "Started as a fun learning project, Soon to be lanched and on your phones", 
+    "links": [{"link": "https://dishdashmozie.vercel.app/", "name": "check it out", "url": "link-outline.svg" , "urlHover": "link-outline.svg"}, {"link": "https://www.instagram.com/dishdashmomzie?igsh=dWVkeGRvanZ3MXJ5&utm_source=qr", "name": "instagram", "url": "instagram-outline.png" , "urlHover": "instagram-outline.png"}]
+  }
+
+]
+

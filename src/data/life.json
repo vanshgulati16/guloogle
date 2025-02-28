@@ -1,0 +1,26 @@
+[
+  {
+    "title": "College",
+    "alias": "college",
+    "headline": "Starting of college with a bang",
+    "timeline": "Feb 2022",
+    "searchDescription": "College in the pendemic era, first hackathon win",
+    "longDescription": "I started college in the pandemic era. I was so excited to meet new people and to learn new things. In Feb 2022, Offline mode started, and that's when i came to know about hackathons, which i participated with the basic knowledge about HTML, CSS, and JS. Luckly, My team won the third place in the hackathon."
+  },
+  {
+    "title": "Coordinator",
+    "alias": "coordinator",
+    "headline": "Appointed as Technical Head of IEEE student chapter",
+    "timeline": "Aug 2022",
+    "searchDescription": "I was appointed as the Technical Head of IEEE student chapter at my college",
+    "longDescription": "Being the technical head of the club, I was responsible for the technical events and workshops. During my tenure, I organised many events and workshops that would intrigue new students to join the club. We also modified basic coding events into something more interesting like 'Coding Mania' just like wrestle mania but for coding."
+  },
+  {
+    "title": "Networking",
+    "alias": "singapore",
+    "headline": "F1 event and a lot of networking",
+    "timeline": "Sept 2024",
+    "searchDescription": "Attended F1 event and a lot of networking",
+    "longDescription": "Recently got really into F1 and attended the singapore GP. During that time, I met a lot of people. During that time many tech conferences were also going on like WEB3 solana summit and many more. Attended some of them and met some amazing people."
+  }
+]
