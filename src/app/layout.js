@@ -5,6 +5,7 @@ import { Roboto, Ropa_Sans } from "next/font/google";
 import Footer from "@/components/Footer";
 import Mailer from "@/components/Mailer";
 import { useState, Suspense } from "react";
+import { Analytics } from "@vercel/analytics/react"
 
 const roboto = Roboto({
   subsets: ["latin"],
@@ -84,6 +85,7 @@ export default function RootLayout({ children }) {
 
         <main className="flex-grow flex">
           <div className="w-full">
+            <Analytics />
             <Suspense fallback={<div>Loading Body...</div>}>
               {children}
             </Suspense>
