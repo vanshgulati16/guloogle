@@ -13,7 +13,7 @@ export default function About() {
           I'm advanced in{" "}
           <span className="text-[#DED7FC] italic ">
             Python and JS/TS with a lot of experience in full-stack
-            web development and exploring mobile development.
+            web development and exploring CyberSec field.
           </span>{" "}
           My most epic skillset lies in the fact that I consistently push the boundaries of coventional thinking to turn my ambitious visions into reality.
         </h2>
