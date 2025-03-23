@@ -6,7 +6,7 @@ export default function About() {
         <h2 className="text-accent-text opacity-70">Vansh Gulati</h2>
         <h2>
           I'm a computer science graduate who loves building
-          things for homosapien.
+          things for homosapiens.
         </h2>
 
         <h2>
@@ -15,7 +15,7 @@ export default function About() {
             Python and JS/TS with a lot of experience in full-stack
             web development and exploring mobile development.
           </span>{" "}
-          as well as a mastery of turning designs into code. My most epic skillset lies in the fact that I consistently push the boundaries of coventional thinking to turn my ambitious visions into reality.
+          My most epic skillset lies in the fact that I consistently push the boundaries of coventional thinking to turn my ambitious visions into reality.
         </h2>
 
         <h2>
@@ -28,8 +28,8 @@ export default function About() {
                 style={{ backgroundImage: `url("icons/link.svg")` }}
               />
             </Link>
-          </span> {" "}, a recipe curating website, which helps you find recipes based on the ingredients you have, modify recipes and create your own recipes. Help you store your recipes and use them later and much more. It's still in development and will be launched soon.
-          I won many hackathons one of them inclusing @nosu AI hackathon. 
+          </span> {" "}, a webapp that lets you curate recipes on the basis of the ingredients available to you. You can curate full week meals plans or an one time special meal from different cuisines. (on going process of adding new features).
+          I have won many hackathons including @nosu AI hackathon. 
         </h2>
 
         <Link

@@ -61,7 +61,7 @@
     "timeline": "present",
     "type": "startup",
     "searchDescription": "We bring your ingredients out on to a plate without the hussle bussle of googling between different cuisines",
-    "longDescription": "Started as a fun learning project, Soon to be lanched and on your phones", 
+    "longDescription": "Started as a fun learning project, soon to be lanched and on your phones", 
     "links": [{"link": "https://dishdashmozie.vercel.app/", "name": "check it out", "url": "link-outline.svg" , "urlHover": "link-outline.svg"}, {"link": "https://www.instagram.com/dishdashmomzie?igsh=dWVkeGRvanZ3MXJ5&utm_source=qr", "name": "instagram", "url": "instagram-outline.png" , "urlHover": "instagram-outline.png"}]
   }
 
