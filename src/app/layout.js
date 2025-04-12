@@ -33,7 +33,7 @@ export default function RootLayout({ children }) {
         <link rel="icon" href="/icon.ico" type="image/x-icon" sizes="200x256" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <title>guloogle</title>
-        <script
+        {/* <script
           dangerouslySetInnerHTML={{
             __html: `
           (function(w,d,s,l,i){
@@ -59,16 +59,16 @@ export default function RootLayout({ children }) {
 
   gtag('config', 'G-8RG9NY419T');`,
           }}
-        ></script>
+        ></script> */}
 
-        <meta property="og:title" content="Rumoogle" />
+        {/* <meta property="og:title" content="Rumoogle" />
         <meta property="og:description" content="everything you'll ever need" />
         <meta property="og:image" content="/Banner.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:image:type" content="image/png"/>
         <meta name="twitter:title" content="Rumoogle" />
         <meta name="twitter:description" content="my typa g*ogle" />
-        {/* <meta name="twitter:image" content="https://rumeza.ca/Banner.png" /> */}
+        <meta name="twitter:image" content="https://rumeza.ca/Banner.png" /> */}
       </head>
       <body className="flex flex-col min-h-screen relative">
         <noscript>
